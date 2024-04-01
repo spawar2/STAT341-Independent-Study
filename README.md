@@ -14,3 +14,5 @@ Learning Objectives [# STAT301 3 Credits Probability & Statistics](https://pawar
 [Descriptive Statistics:](https://youtu.be/09SCdQPVShU)
 
 [Github:](https://github.com/spawar2/STAT302)
+
+STAT341-Independent Study (3 credit) (3 students)
