@@ -6,7 +6,7 @@ Learning Objectives [# STAT301 3 Credits Probability & Statistics](https://pawar
 [Data analysis:](https://youtu.be/dhIjTt26YKQ)
 
 [T Test:](https://youtu.be/sIpMsN90Dt8)
-
+[R: ggpubr, tidyverse, datarium, dplyr]
 [Anova:](https://youtu.be/Z-S4CfsRHA0)
 
 [Correlation:](https://youtu.be/yndToTyudUQ)
