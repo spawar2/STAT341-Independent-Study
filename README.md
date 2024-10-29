@@ -28,4 +28,4 @@ Aug 25.Rd: Correlation test analysis and scatter plotting.
 Aug 20.Rd, Aug-18.Rd, Aug-16.Rd, Aug 20.Rd, Aug 23.Rd: Descriptive statistics (Mean, Mode, Median, Standard Deviation, Variance) variable R functions.
 Oct 13-341.Rd, Oct 15-301.Rd, Oct 22.Rd, Oct 25-301.Rd, Oct 6.Rd, Oct 8-301.Rd, Sep 29-301.Rd: Probability distribution functions.
 SEP-8-301.Rd: Analysis of Variance (ANOVA) test and ggscatter plot.
-Sep 15.Rd: T-test analysis and line plot.
+Sep 15.Rd: T-test analysis and line plot. T test distribution plot: Student t dis.png
