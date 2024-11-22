@@ -11,8 +11,8 @@ Learning Objectives [# STAT301 3 Credits Probability & Statistics](https://pawar
 
 [Correlation:](https://youtu.be/yndToTyudUQ)
 
-Chi Square: https://youtu.be/dgehxC9tJVc
-
+[Chi Square:](https://youtu.be/dgehxC9tJVc)
+[Semester class review:](https://youtu.be/Pju8ecWWRAw)
 [Descriptive Statistics:](https://youtu.be/09SCdQPVShU)
 
 [Github:](https://github.com/spawar2/STAT302)
