@@ -1,6 +1,6 @@
 Learning Objectives [# STAT301 3 Credits, Probability & Statistics](https://pawar1550.wixsite.com/claflin-courses/copy-of-stat341-2).
 Date created/updated: December, 9, 2024.
-[Youtube Teaching Channel:](https://www.yoProbability & Statistics I & II, Biostatistics, Data Analysis (topics including descriptive & inferential statistics, variable types, distribution properties, discrete & continuous types, R functions, probability distributions, ANOVA, T-test, correlation, chi-Square, regression, etc.)utube.com/playlist?list=PLKka-JHtsz80sJ_uQ8wZ4cnLNB9yRJNoV). Regression (linear, multiple, logistic), Probability distributions (Discrete, Binomial, Poisson, Continuous Uniform, Chi-squared, Student-t, Fisher,)  Exponential, Normal, Chi-Square), Analysis of Variance (ANOVA).
+[Youtube Teaching Channel:](https://www.yoProbability & Statistics I & II, Biostatistics, Data Analysis (topics including descriptive & inferential statistics, variable types, distribution properties, discrete & continuous types, R functions, probability distributions, ANOVA, T-test, correlation, chi-Square, regression, etc.)utube.com/playlist?list=PLKka-JHtsz80sJ_uQ8wZ4cnLNB9yRJNoV). Regression (linear, multiple, logistic), Probability distributions (Discrete, Binomial, Poisson, Continuous Uniform, Chi-squared, Student-t, Fisher,)  Exponential, Normal, Chi-Square), Analysis of Variance (ANOVA). Data wrangling and handling.
 ![download](https://github.com/user-attachments/assets/c82f99bc-b17c-4b5a-b1c5-215778f1d164)
 
 [Data analysis:](https://youtu.be/WIvehDeVRak)
