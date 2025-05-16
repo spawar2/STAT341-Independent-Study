@@ -9,7 +9,9 @@ Date created/updated: December, 9, 2024.
 [T Test:](https://youtu.be/sIpMsN90Dt8)
 [R: ggpubr, tidyverse, datarium, dplyr].
 [Anova:](https://youtu.be/Z-S4CfsRHA0)
+https://www.claflin.edu/docs/default-source/academic-affairs-student-services/2018-2020-undergraduate-catalog_final_aug-21-2019_web.pdf?sfvrsn=15bf3f0e_6
 
+https://www.claflin.edu/docs/default-source/academics-docs/graduate-catalog-2024-26.pdf?sfvrsn=88de090e_0
 [Correlation:](https://youtu.be/yndToTyudUQ)
 
 [Chi Square:](https://youtu.be/dgehxC9tJVc)
